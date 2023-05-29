@@ -45,10 +45,8 @@ const Footer = () => {
               </h1>
             </div>
             <p className="footer__logo-content">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Consequuntur, distinctio, itaque reiciendis ab cupiditate harum ex
-              quam veniam, omnis expedita animi quibusdam obcaecati mollitia?
-              Delectus et ad illo recusandae temporibus?
+            We make renting a car easy, so you can focus on enjoying your trip.
+            Safety, reliability, and exceptional service - that's our commitment to you
             </p>
           </Col>
 
@@ -68,12 +66,12 @@ const Footer = () => {
           <Col lg="3" md="4" sm="6">
             <div className="mb-4">
               <h5 className="footer__link-title mb-4">Head Office</h5>
-              <p className="office__info">Okore Road , Kisumu</p>
+              <p className="office__info">Lake Basin Mall, Kisumu</p>
               <p className="office__info">Phone: +254718472188</p>
 
-              <p className="office__info">Email: augustine@gmail.com</p>
+              <p className="office__info">Email: otienoaugustine99@gmail.com</p>
 
-              <p className="office__info">Office Time: 10am - 7pm</p>
+              <p className="office__info">Office Time: 8am - 9pm</p>
             </div>
           </Col>
 
@@ -94,7 +92,7 @@ const Footer = () => {
             <div className="footer__bottom">
               <p className="section__description d-flex align-items-center justify-content-center gap-1 pt-4">
                 <i class="ri-copyright-line"></i>Copyright {year}, Developed by
-                Bellah Oyucho. All rights reserved.
+                Oyucho. All rights reserved.
               </p>
             </div>
           </Col>

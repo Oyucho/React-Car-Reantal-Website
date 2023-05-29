@@ -8,7 +8,7 @@ import ava03 from "../../assets/all-images/ava-3.jpg";
 
 const OUR__MEMBERS = [
   {
-    name: "Riggy G",
+    name: "John Mkubwa",
     experience: "10 years of experience",
     fbUrl: "#",
     instUrl: "#",
@@ -18,8 +18,8 @@ const OUR__MEMBERS = [
   },
 
   {
-    name: "Jeff Koinange",
-    experience: "10 years of experience",
+    name: "Calvin Otieno",
+    experience: "7 years of experience",
     fbUrl: "#",
     instUrl: "#",
     twitUrl: "#",
@@ -29,7 +29,7 @@ const OUR__MEMBERS = [
 
   {
     name: "Truphosa Magdalena",
-    experience: "10 years of experience",
+    experience: "3 years of experience",
     fbUrl: "#",
     instUrl: "#",
     twitUrl: "#",
@@ -39,7 +39,7 @@ const OUR__MEMBERS = [
 
   {
     name: "Josinta Maria",
-    experience: "10 years of experience",
+    experience: "5 years of experience",
     fbUrl: "#",
     instUrl: "#",
     twitUrl: "#",

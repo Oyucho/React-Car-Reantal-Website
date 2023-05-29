@@ -60,16 +60,16 @@ const Contact = () => {
               <div className="contact__info">
                 <h6 className="fw-bold">Contact Information</h6>
                 <p className="section__description mb-0">
-                  Okore Road Millimani, Kisumu
+                  Lake Basin Mall, Kisumu
                 </p>
                 <div className=" d-flex align-items-center gap-2">
                   <h6 className="fs-6 mb-0">Phone:</h6>
-                  <p className="section__description mb-0">+254 752260784</p>
+                  <p className="section__description mb-0">+254 718472188</p>
                 </div>
 
                 <div className=" d-flex align-items-center gap-2">
                   <h6 className="mb-0 fs-6">Email:</h6>
-                  <p className="section__description mb-0">austine@gmail.com</p>
+                  <p className="section__description mb-0">otienoaugustine99@gmail.com</p>
                 </div>
 
                 <h6 className="fw-bold mt-4">Follow Us</h6>
